@@ -1,6 +1,8 @@
 import fasttext
 import fasttext.util
 from datasets import load_dataset
+import pandas as pd
+
 
 set_seed = 123
 
