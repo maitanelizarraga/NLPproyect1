@@ -223,3 +223,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Modelos FastText descargados
+cc.es.300.bin
+cc.es.300.bin.gz
